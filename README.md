@@ -2,7 +2,9 @@
 
 Hey there, fellow explorer! I'm **Nikita Sharma** — Python whisperer, full-stack explorer-in-progress, and a tech enthusiast 
 
-who turns coffee ☕ into code 💻. My GitHub is like a constellation of code stars ✨— each repo a planet with its own story!
+who turns coffee ☕ into code 💻. 
+
+My GitHub is like a constellation of code stars ✨— each repo a planet with its own story!
 
 ---
 
