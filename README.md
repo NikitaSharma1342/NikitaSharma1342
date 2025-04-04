@@ -23,7 +23,7 @@ Here are some of the cool tools and tech I’ve been wielding across my projects
 
 
 
-## 🪐 Let's Build the Future Together
+## 💌 Let's Connect!
 
 I'm always down to collaborate, learn new things, and build awesome projects with like-minded devs 🌍.  
 If something here sparks your interest — fork it, star it, or drop a ✉️!
